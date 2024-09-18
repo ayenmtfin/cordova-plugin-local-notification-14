@@ -1,4 +1,7 @@
 ChangeLog
+### VERSION 0.1.5 (18.9.2024)
+I AM TOO LAZY TO TYPE CHANGELOG.
+
 ---------
 ### Vrsion 0.1.4 (2.11.2022)
 

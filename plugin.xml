@@ -24,20 +24,20 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-local-notification-12"
-        version="0.1.4">
+        id="cordova-plugin-local-notification-14"
+        version="0.1.5">
 
     <name>LocalNotification</name>
 
-    <description>Schedules and queries for local notifications</description>
+    <description>Schedules and queries for local notifications. Forked.</description>
 
-    <repo>https://github.com/bhandaribhumin/cordova-plugin-local-notification-12.git</repo>
+    <repo>https://github.com/ayenmtfin/cordova-plugin-local-notification-14.git</repo>
 
     <keywords>appplant, notification, local notification, user notification</keywords>
 
     <license>Apache 2.0</license>
 
-    <author>Sebastián bhandaribhumin</author>
+    <author>Ayen</author>
 
     <!-- cordova -->
     <engines>

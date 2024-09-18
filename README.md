@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-    <a href="https://www.npmjs.com/package/cordova-plugin-local-notification-12">
-        <img src="https://badge.fury.io/js/cordova-plugin-local-notification-12.svg" alt="npm version" />
+    <a href="https://www.npmjs.com/package/cordova-plugin-local-notification-14">
+        <img src="https://badge.fury.io/js/cordova-plugin-local-notification-14.svg" alt="npm version" />
     </a>
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L3HKQCD9UA35A "Donate once-off to this project using Paypal"">
         <img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPayl donate button" />
@@ -70,8 +70,8 @@ Please report bugs or missing features!
 
 ## Install
 ```bash
-npm i cordova-plugin-local-notification-12
-cordova plugin add cordova-plugin-local-notification-12
+npm i cordova-plugin-local-notification-14
+cordova plugin add cordova-plugin-local-notification-14
 ```
 
 ## Basics
@@ -576,15 +576,15 @@ The plugin can be installed via [Cordova-CLI][CLI] and is publicly available on 
 
 Execute from the projects root folder:
 
-    $ cordova plugin add cordova-plugin-local-notification-12
+    $ cordova plugin add cordova-plugin-local-notification-14
 
 Or install a specific version:
 
-    $ cordova plugin add cordova-plugin-local-notification-12@VERSION
+    $ cordova plugin add cordova-plugin-local-notification-14@VERSION
 
 Or install the latest head version:
 
-    $ cordova plugin add https://github.com/bhandaribhumin/cordova-plugin-local-notification-12.git
+    $ cordova plugin add https://github.com/ayenmtfin/cordova-plugin-local-notification-14.git
 
 Or install from local source:
 
@@ -609,10 +609,10 @@ Made with :yum: from Leipzig
 © 2013 [appPlant GmbH][appplant]
 
 
-[ticket_template]: https://github.com/bhandaribhumin/cordova-plugin-local-notification-12/issues/1188
+[ticket_template]: https://github.com/bhandaribhumin/cordova-plugin-local-notification-14/issues/1188
 [cordova]: https://cordova.apache.org
 [CLI]: http://cordova.apache.org/docs/en/edge/guide_cli_index.md.html#The%20Command-line%20Interface
-[npm]: https://www.npmjs.com/package/cordova-plugin-local-notification-12
+[npm]: https://www.npmjs.com/package/cordova-plugin-local-notification-14
 [apache2_license]: http://opensource.org/licenses/Apache-2.0
 [appplant]: http://appplant.de
 
